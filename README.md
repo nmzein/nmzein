@@ -1,6 +1,6 @@
 # 🏄‍♂️ Noureldin
 
-Hey there! I'm Noureldin and I'm currently studying Computer Science at University. I'm passionate about making education funner and more accessible. I'm currently working on a free, open source and high quality educational website with interactive, information rich lessons and courses. Feel free to contact me if you'd like to be a part of this project!
+Hey there! I'm Noureldin and I'm currently studying Computer Science at University. I'm passionate about making education more fun and accessible. I'm currently working on a free, open source and high quality educational website with interactive, information rich lessons and courses. Feel free to contact me if you'd like to be a part of this project!
 
 <br>
 
@@ -40,4 +40,4 @@ Hey there! I'm Noureldin and I'm currently studying Computer Science at Universi
 
 ### 🥊 Hobbies & Interests
 
-Outside of coding, I enjoy boxing, working out and reading. Within computer science, I'm especially interested in how augmented reality can be used to improve our lives as well as programming language design and how we can write better, more error-proof code.
+Outside of coding, I enjoy boxing, working out and reading. Within computer science, I'm especially interested in how augmented reality can be used to improve our lives as well as programming language design and how we can write better, less error-prone code.
